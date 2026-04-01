@@ -25,12 +25,12 @@ Output Layer: 1 neuron (Sigmoid)
 
 
 Key Steps Explained:
-1. Data Generation
+1. Data Generation:
 `make_classification()` is used to create a binary dataset
 Noise is added using `flip_y=0.1`
 This simulates real-world imperfect data
 
-2. Data Preprocessing
+2. Data Preprocessing:
 Features are standardized:
   
   X = (X - mean) / std
