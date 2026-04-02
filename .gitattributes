@@ -1,2 +1,0 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
-superwised_learning/neural[[:space:]]network/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
